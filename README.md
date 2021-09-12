@@ -7,4 +7,4 @@ This week’s Challenge required me to create an application that an employee co
 https://brynne-eastman.github.io/JS-Password-Generator-Challenge/
 
 ### Screenshot
-![screenshot] (.assets/images/JS-Password-Generator-Challenge.png)
+![screenshot](./assets/images/JS-Password-Generator-Challenge.png)
